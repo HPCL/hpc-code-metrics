@@ -1,0 +1,108 @@
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex1.c,main,"int main (int argc, char *argv[])
+",main,_main,,36,5,0,2,201,34,0,47,118.0,12,23,35,291,23,314,12,23,1610.5948673207195,29.643856189774723,0.0944071853177539,10.592414090455287,0.09440718531775391,1.0,17060.087766622953,947.7826537012752
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex5.c,hypre_FlexGMRESModifyPCAMGExample,"int hypre_FlexGMRESModifyPCAMGExample(void *precond_data, int iterations,
+",hypre_FlexGMRESModifyPCAMGExample,__Z33hypre_FlexGMRESModifyPCAMGExamplePvid,,34,5,0,3,5,1,2,2,7.5,3,0,3,7,0,7,3,0,11.094737505048093,0,0.0,0,0,0,0,1
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex5.c,main,"int main (int argc, char *argv[])
+",main,_main,,38,5,298,2,128,44,0,95,753.5,3,0,3,7,0,7,3,0,11.094737505048093,0,0.0,0,0,0,0,45
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex5.c,hypre_FlexGMRESModifyPCAMGExample,"int hypre_FlexGMRESModifyPCAMGExample(void *precond_data, int iterations,
+",hypre_FlexGMRESModifyPCAMGExample,__Z33hypre_FlexGMRESModifyPCAMGExamplePvid,,615,5,0,3,5,1,2,2,7.5,3,0,3,7,0,7,3,0,11.094737505048093,0,0.0,0,0,0,0,1
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex16.c,ComputeFEMQ3,"void ComputeFEMQ3 (double S[16][16], double F[16], double h)
+",ComputeFEMQ3,__Z12ComputeFEMQ3PA16_dPdd,,48,6,325,3,450,3,1,0,666.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,7
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex16.c,main,"int main (int argc, char *argv[])
+",main,_main,,230,5,0,2,98,36,0,83,138.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,55
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex18comp.c,main,"int main (int argc, char *argv[])
+",main,_main,,32,5,0,2,115,37,0,94,135.0,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,42
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex5big.c,hypre_FlexGMRESModifyPCAMGExample,"int hypre_FlexGMRESModifyPCAMGExample(void *precond_data, int iterations,
+",hypre_FlexGMRESModifyPCAMGExample,__Z33hypre_FlexGMRESModifyPCAMGExamplePvid,,40,5,0,3,4,1,2,2,7.5,3,0,3,7,0,7,3,0,11.094737505048093,0,0.0,0,0,0,0,1
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex5big.c,main,"int main (int argc, char *argv[])
+",main,_main,,44,5,133,2,123,37,0,94,399.0,3,0,3,7,0,7,3,0,11.094737505048093,0,0.0,0,0,0,0,38
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex5big.c,hypre_FlexGMRESModifyPCAMGExample,"int hypre_FlexGMRESModifyPCAMGExample(void *precond_data, int iterations,
+",hypre_FlexGMRESModifyPCAMGExample,__Z33hypre_FlexGMRESModifyPCAMGExamplePvid,,575,5,0,3,4,1,2,2,7.5,3,0,3,7,0,7,3,0,11.094737505048093,0,0.0,0,0,0,0,1
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex12.c,main,"int main (int argc, char *argv[])
+",main,_main,,40,5,0,2,236,41,0,74,147.5,3,0,3,5,0,5,3,0,7.92481250360578,0,0.0,0,0,0,0,43
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex18.c,main,"int main (int argc, char *argv[])
+",main,_main,,31,5,0,2,111,35,0,94,129.0,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,42
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex8.c,main,"int main (int argc, char *argv[])
+",main,_main,,35,5,0,2,427,48,0,55,169.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,45
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex2.c,main,"int main (int argc, char *argv[])
+",main,_main,,35,5,0,2,238,41,0,44,140.0,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,28
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex15big.c,alpha,"double alpha(double x, double y, double z)
+",alpha,__Z5alphaddd,,47,8,19,3,29,11,1,3,79.0,3,0,3,6,0,6,3,0,9.509775004326936,0,0.0,0,0,0,0,8
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex15big.c,beta,"double beta(double x, double y, double z)
+",beta,__Z4betaddd,,73,8,19,3,24,11,1,3,79.0,3,0,3,6,0,6,3,0,9.509775004326936,0,0.0,0,0,0,0,8
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex15big.c,ComputeFEMND1,"void ComputeFEMND1(double S[12][12], double F[12],
+",ComputeFEMND1,__Z13ComputeFEMND1PA12_dPddddd,,121,6,302,3,4,4,1,2,628.5,3,0,3,6,0,6,3,0,9.509775004326936,0,0.0,0,0,0,0,17
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex15big.c,main,"int main (int argc, char *argv[])
+",main,_main,,183,5,0,2,334,73,0,89,264.5,3,0,3,6,0,6,3,0,9.509775004326936,0,0.0,0,0,0,0,85
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex6.c,main,"int main (int argc, char *argv[])
+",main,_main,,36,5,0,2,251,42,0,70,148.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,39
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex15.c,alpha,"double alpha(double x, double y, double z)
+",alpha,__Z5alphaddd,,54,8,19,3,30,11,1,3,79.0,3,0,3,6,0,6,3,0,9.509775004326936,0,0.0,0,0,0,0,8
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex15.c,beta,"double beta(double x, double y, double z)
+",beta,__Z4betaddd,,80,8,19,3,24,11,1,3,79.0,3,0,3,6,0,6,3,0,9.509775004326936,0,0.0,0,0,0,0,8
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex15.c,ComputeFEMND1,"void ComputeFEMND1(double S[12][12], double F[12],
+",ComputeFEMND1,__Z13ComputeFEMND1PA12_dPddddd,,128,6,302,3,4,4,1,2,628.5,3,0,3,6,0,6,3,0,9.509775004326936,0,0.0,0,0,0,0,17
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex15.c,main,"int main (int argc, char *argv[])
+",main,_main,,190,5,0,2,339,83,0,90,300.5,3,0,3,6,0,6,3,0,9.509775004326936,0,0.0,0,0,0,0,97
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex11.c,main,"int main (int argc, char *argv[])
+",main,_main,,38,5,0,2,76,23,0,49,94.0,3,0,3,6,0,6,3,0,9.509775004326936,0,0.0,0,0,0,0,44
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/vis.c,GLVis_PrintGlobalSquareMesh,"void GLVis_PrintGlobalSquareMesh(const char *meshfile, int n)
+",GLVis_PrintGlobalSquareMesh,__Z27GLVis_PrintGlobalSquareMeshPKci,,4,6,34,2,33,6,0,15,95.0,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,12
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/vis.c,GLVis_PrintLocalSquareMesh,"void GLVis_PrintLocalSquareMesh(const char *meshfile_prefix, int nx, int ny,
+",GLVis_PrintLocalSquareMesh,__Z26GLVis_PrintLocalSquareMeshPKciidddi,,57,6,47,4,34,6,0,16,125.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,17
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/vis.c,GLVis_PrintLocalRhombusMesh,"void GLVis_PrintLocalRhombusMesh(const char *meshfile_prefix,
+",GLVis_PrintLocalRhombusMesh,__Z27GLVis_PrintLocalRhombusMeshPKciid,,112,6,66,2,35,6,0,20,164.0,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,22
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/vis.c,GLVis_PrintLocalCubicMesh,"void GLVis_PrintLocalCubicMesh(const char *meshfile_prefix,
+",GLVis_PrintLocalCubicMesh,__Z25GLVis_PrintLocalCubicMeshPKciiiddddi,,174,6,67,2,68,8,0,16,171.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,21
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/vis.c,GLVis_PrintSStructGrid,"void GLVis_PrintSStructGrid(HYPRE_SStructGrid grid,
+",GLVis_PrintSStructGrid,__Z22GLVis_PrintSStructGridiPKciPdS1_,,245,6,111,2,254,22,0,52,306.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,31
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/vis.c,GLVis_PrintSStructVector,"void GLVis_PrintSStructVector(HYPRE_SStructVector sol,
+",GLVis_PrintSStructVector,__Z24GLVis_PrintSStructVectoriiPKci,,432,6,74,2,106,22,0,43,229.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,25
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/vis.c,GLVis_PrintStructGrid,"void GLVis_PrintStructGrid(HYPRE_StructGrid Grid,
+",GLVis_PrintStructGrid,__Z21GLVis_PrintStructGridiPKciPdS1_,,565,6,89,2,248,19,0,52,252.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,29
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/vis.c,GLVis_PrintStructVector,"void GLVis_PrintStructVector(HYPRE_StructVector sol,
+",GLVis_PrintStructVector,__Z23GLVis_PrintStructVectoriPKci,,739,6,62,2,32,8,0,26,160.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,19
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/vis.c,GLVis_PrintData,"void GLVis_PrintData(const char *datafile, int myid, int num_procs)
+",GLVis_PrintData,__Z15GLVis_PrintDataPKcii,,809,6,0,3,3,2,0,4,11.0,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,2
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex3.c,main,"int main (int argc, char *argv[])
+",main,_main,,52,5,0,2,159,33,0,56,123.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,43
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex9.c,main,"int main (int argc, char *argv[])
+",main,_main,,48,5,0,2,256,51,0,77,187.5,3,0,3,5,0,5,3,0,7.92481250360578,0,0.0,0,0,0,0,63
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex7.c,K,"double K(double x, double y)
+",K,__Z1Kdd,,69,8,13,2,28,10,12,227,61.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,5
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex7.c,B1,"double B1(double x, double y)
+",B1,__Z2B1dd,,93,8,1,2,9,6,4,10,23.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,1
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex7.c,B2,"double B2(double x, double y)
+",B2,__Z2B2dd,,111,8,1,2,9,6,6,0,23.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,1
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex7.c,C,"double C(double x, double y)
+",C,__Z1Cdd,,129,8,1,2,7,5,0,0,20.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,1
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex7.c,U0,"double U0(double x, double y)
+",U0,__Z2U0dd,,145,8,7,2,9,5,8,2,34.0,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,4
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex7.c,F,"double F(double x, double y)
+",F,__Z1Fdd,,161,8,13,2,22,11,1,2,64.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,5
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex7.c,main,"int main (int argc, char *argv[])
+",main,_main,,186,5,0,2,140,119,0,100,395.0,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,70
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex14.c,ComputeFEMRhombus,"void ComputeFEMRhombus (double S[4][4], double F[4], double gamma, double h)
+",ComputeFEMRhombus,__Z17ComputeFEMRhombusPA4_dPddd,,115,6,61,4,48,4,4,1,145.0,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,12
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex14.c,main,"int main (int argc, char *argv[])
+",main,_main,,145,5,0,2,126,31,0,19,121.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,51
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex4.c,K,"double K(double x, double y)
+",K,__Z1Kdd,,75,8,13,2,28,10,12,124,61.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,5
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex4.c,B1,"double B1(double x, double y)
+",B1,__Z2B1dd,,99,8,1,2,9,6,4,10,23.5,2,0,2,2,0,2,2,0,2.0,0,0.0,0,0,0,0,0.0
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex4.c,B2,"double B2(double x, double y)
+",B2,__Z2B2dd,,117,8,1,2,9,6,6,0,23.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex4.c,C,"double C(double x, double y)
+",C,__Z1Cdd,,135,8,1,2,7,5,0,0,20.5,1,0,1,3,0,3,1,0,0.0,0,0.0,0,0,0,0,0.0
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex4.c,U0,"double U0(double x, double y)
+",U0,__Z2U0dd,,151,8,7,2,9,5,8,2,34.0,1,0,1,3,0,3,1,0,0.0,0,0.0,0,0,0,0,0.0
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex4.c,F,"double F(double x, double y)
+",F,__Z1Fdd,,167,8,13,2,22,11,1,2,64.5,1,0,1,1,0,1,1,0,0.0,0,0.0,0,0,0,0,0.0
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex4.c,main,"int main (int argc, char *argv[])
+",main,_main,,192,5,0,2,131,118,0,92,386.5,1,0,1,1,0,1,1,0,0.0,0,0.0,0,0,0,0,0.0
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex17.c,main,"int main (int argc, char *argv[])
+",main,_main,,29,5,0,2,82,28,0,71,105.0,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,36
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex13.c,ComputeFEMRhombus,"void ComputeFEMRhombus (double S[4][4], double F[4], double gamma, double h)
+",ComputeFEMRhombus,__Z17ComputeFEMRhombusPA4_dPddd,,117,6,61,4,48,4,4,1,145.0,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,12
+/Users/shussain/code-analysis/dynamic/Projects/hypre-2.19.0/src/examples/ex13.c,main,"int main (int argc, char *argv[])
+",main,_main,,147,5,0,2,168,36,0,18,139.5,2,0,2,4,0,4,2,0,4.0,0,0.0,0,0,0,0,57

@@ -1,0 +1,160 @@
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex1.c,main,"int main(int argc,char **argv)
+",main,_main,,17,5,0,2,27,11,0,81,40.0,11,18,29,176,18,194,11,18,942.448313054749,24.32192809488736,0.12537076337570804,7.976341318136705,0.12537076337570804,1.0,7517.28941962683,417.62718997926834
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex46.c,main,"int main(int argc,char **argv)
+",main,_main,,18,5,0,2,29,13,0,90,45.0,11,11,22,201,11,212,11,11,945.3995031511071,16.70043971814109,0.07877565904783533,12.694276532713806,0.07877565904783533,1.0,12001.16272689039,6
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex29.c,MyStoppingTest,"PetscErrorCode MyStoppingTest(EPS eps,PetscInt its,PetscInt max_it,PetscInt nconv,PetscInt nev,EPSConvergedReason *reason,void *ctx)
+",MyStoppingTest,__Z14MyStoppingTestiiiiiPiPv,,172,16,0,7,1,3,1,5,18.5,7,47,54,102,47,149,7,47,857.4782378223567,54.61470984411521,0.36654167680614236,2.728202720938833,0.36654167680614236,1.0,2339.3744615727896,3
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex29.c,MatMarkovModel,"PetscErrorCode MatMarkovModel(PetscInt m,Mat A)
+",MatMarkovModel,__Z14MatMarkovModelii,,122,16,10,2,30,11,1,19,58.5,7,47,54,102,47,149,7,47,857.4782378223567,54.61470984411521,0.36654167680614236,2.728202720938833,0.36654167680614236,1.0,2339.3744615727896,5
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex29.c,main,"int main(int argc,char **argv)
+",main,_main,,28,5,11,2,15,6,0,59,47.5,6,1,7,26,1,27,6,1,75.79858289555531,4.584962500721156,0.1698134259526354,5.888815883609352,0.1698134259526354,0.9999999999999999,446.3638989104263,24.797994383912574
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex5.c,MatMarkovModel,"PetscErrorCode MatMarkovModel(PetscInt m,Mat A)
+",MatMarkovModel,__Z14MatMarkovModelii,,140,16,0,2,38,11,1,19,38.5,7,52,59,112,52,164,7,52,964.753460095342,59.75488750216347,0.3643590701351431,2.7445453728628015,0.3643590701351431,1.0,2647.809644858048,5
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex5.c,main,"int main(int argc,char **argv)
+",main,_main,,24,5,10,2,11,5,0,69,42.0,7,52,59,112,52,164,7,52,964.753460095342,59.75488750216347,0.3643590701351431,2.7445453728628015,0.3643590701351431,1.0,2647.809644858048,8
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex12.c,main,"int main(int argc,char **argv)
+",main,_main,,18,5,0,2,47,13,0,126,46.5,12,18,30,275,18,293,12,18,1437.718944513296,24.32192809488736,0.08300999349790908,12.046742300072445,0.08300999349790908,0.9999999999999999,17319.829624483835,9
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex18.c,MyEigenSort,"PetscErrorCode MyEigenSort(PetscScalar ar,PetscScalar ai,PetscScalar br,PetscScalar bi,PetscInt *r,void *ctx)
+",MyEigenSort,__Z11MyEigenSortiiiiPiPv,,190,16,0,6,6,13,1,7,48.0,6,47,53,105,47,152,6,47,870.6439090936062,54.61470984411521,0.35930730160602115,2.7831329770651183,0.35930730160602115,1.0,2423.1177746793005,4
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex18.c,MatMarkovModel,"PetscErrorCode MatMarkovModel(PetscInt m,Mat A)
+",MatMarkovModel,__Z14MatMarkovModelii,,137,16,10,2,31,11,1,19,58.5,6,47,53,105,47,152,6,47,870.6439090936062,54.61470984411521,0.35930730160602115,2.7831329770651183,0.35930730160602115,1.0,2423.1177746793005,5
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex18.c,main,"int main(int argc,char **argv)
+",main,_main,,26,5,11,2,15,4,0,61,41.5,6,47,53,105,47,152,6,47,870.6439090936062,54.61470984411521,0.35930730160602115,2.7831329770651183,0.35930730160602115,1.0,2423.1177746793005,9
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex24.c,MatMult_Fold,"PetscErrorCode MatMult_Fold(Mat M,Vec x,Vec y)
+",MatMult_Fold,__Z12MatMult_Foldiii,,199,16,3,3,23,1,1,11,15.0,16,106,122,326,106,432,16,106,2994.078529827167,114.75488750216347,0.2656363136624154,3.764545540527462,0.2656363136624154,1.0,11271.34497744988,4
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex24.c,RayleighQuotient,"PetscErrorCode RayleighQuotient(Mat A,Vec x,PetscScalar *r)
+",RayleighQuotient,__Z16RayleighQuotientiiPi,,219,16,2,3,1,1,1,9,12.5,16,106,122,326,106,432,16,106,2994.078529827167,114.75488750216347,0.2656363136624154,3.764545540527462,0.2656363136624154,1.0,11271.34497744988,3
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex24.c,ComputeResidualNorm,"PetscErrorCode ComputeResidualNorm(Mat A,PetscScalar lambda,Vec x,PetscReal *r)
+",ComputeResidualNorm,__Z19ComputeResidualNormiiiPi,,235,16,0,4,1,1,1,11,9.5,16,106,122,326,106,432,16,106,2994.078529827167,114.75488750216347,0.2656363136624154,3.764545540527462,0.2656363136624154,1.0,11271.34497744988,3
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex24.c,main,"int main(int argc,char **argv)
+",main,_main,,35,5,32,2,23,20,0,141,133.5,16,106,122,326,106,432,16,106,2994.078529827167,114.75488750216347,0.2656363136624154,3.764545540527462,0.2656363136624154,1.0,11271.34497744988,13
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex2.c,main,"int main(int argc,char **argv)
+",main,_main,,18,5,0,2,23,10,0,66,36.0,11,11,22,153,11,164,11,11,731.3467854565167,16.70043971814109,0.10183194950086032,9.82010071398615,0.10183194950086032,1.0,7181.899090033015,6
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex41.c,MatMarkovModel,"PetscErrorCode MatMarkovModel(PetscInt m,Mat A)
+",MatMarkovModel,__Z14MatMarkovModelii,,206,16,10,2,53,11,1,19,58.5,12,86,98,248,86,334,12,86,2209.3130879344794,94.4594316186373,0.2828126695168781,3.535909482797483,0.2828126695168781,1.0,7811.931098096115,5
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex41.c,ComputeResidualNorm,"PetscErrorCode ComputeResidualNorm(Mat A,PetscBool trans,PetscScalar kr,PetscScalar ki,Vec xr,Vec xi,Vec u,PetscReal *norm)
+",ComputeResidualNorm,__Z19ComputeResidualNormiiiiiiiPi,,261,16,0,8,2,9,2,21,37.5,12,86,98,248,86,334,12,86,2209.3130879344794,94.4594316186373,0.2828126695168781,3.535909482797483,0.2828126695168781,1.0,7811.931098096115,3
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex41.c,main,"int main(int argc,char **argv)
+",main,_main,,24,5,24,2,11,16,0,120,104.5,12,86,98,248,86,334,12,86,2209.3130879344794,94.4594316186373,0.2828126695168781,3.535909482797483,0.2828126695168781,1.0,7811.931098096115,11
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex30.c,MatMult_Brussel,"PetscErrorCode MatMult_Brussel(Mat A,Vec x,Vec y)
+",MatMult_Brussel,__Z15MatMult_Brusseliii,,180,16,5,3,13,1,1,47,20.0,12,77,89,283,77,360,12,77,2331.264035147903,85.3037807481771,0.23695494652271418,4.2202115409485295,0.23695494652271418,1.0,9838.427386129419,6
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex30.c,MatGetDiagonal_Brussel,"PetscErrorCode MatGetDiagonal_Brussel(Mat A,Vec diag)
+",MatGetDiagonal_Brussel,__Z22MatGetDiagonal_Brusselii,,217,16,7,2,6,1,1,23,23.5,12,77,89,283,77,360,12,77,2331.264035147903,85.3037807481771,0.23695494652271418,4.2202115409485295,0.23695494652271418,1.0,9838.427386129419,7
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex30.c,MyStoppingTest,"PetscErrorCode MyStoppingTest(EPS eps,PetscInt its,PetscInt max_it,PetscInt nconv,PetscInt nev,EPSConvergedReason *reason,void *ptr)
+",MyStoppingTest,__Z14MyStoppingTestiiiiiPiPv,,252,16,0,7,3,5,1,3,25.0,12,77,89,283,77,360,12,77,2331.264035147903,85.3037807481771,0.23695494652271418,4.2202115409485295,0.23695494652271418,1.0,9838.427386129419,4
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex30.c,main,"int main(int argc,char **argv)
+",main,_main,,42,5,22,2,39,6,0,113,69.5,12,77,89,283,77,360,12,77,2331.264035147903,85.3037807481771,0.23695494652271418,4.2202115409485295,0.23695494652271418,1.0,9838.427386129419,9
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex11.c,main,"int main (int argc,char **argv)
+",main,_main,,19,5,0,2,30,10,0,76,37.0,11,11,22,176,11,187,11,11,833.9137126851746,16.70043971814109,0.08930716426813418,11.197309960459819,0.08930716426813418,1.0,9337.590321213733,8
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex34.c,CreateSquareMesh,"PetscErrorCode CreateSquareMesh(MPI_Comm comm,DM *dm)
+",CreateSquareMesh,__Z16CreateSquareMeshiPi,,273,16,6,2,6,2,1,14,24.0,4,1,5,43,1,44,4,1,102.16483617504393,4.584962500721156,0.10420369319820809,9.596588847363389,0.10420369319820809,1.0,980.4339274301343,6
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex34.c,SetupDiscretization,"PetscErrorCode SetupDiscretization(DM dm)
+",SetupDiscretization,__Z19SetupDiscretizationi,,256,16,3,1,6,1,1,13,13.0,4,1,5,43,1,44,4,1,102.16483617504393,4.584962500721156,0.10420369319820809,9.596588847363389,0.10420369319820809,1.0,980.4339274301343,4
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex34.c,FormJacobianA,"PetscErrorCode FormJacobianA(SNES snes,Vec X,Mat A,Mat B,void *ctx)
+",FormJacobianA,__Z13FormJacobianAiiiiPv,,352,16,5,5,2,1,1,14,22.0,4,1,5,43,1,44,4,1,102.16483617504393,4.584962500721156,0.10420369319820809,9.596588847363389,0.10420369319820809,1.0,980.4339274301343,6
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex34.c,FormFunctionA,"PetscErrorCode FormFunctionA(SNES snes,Vec X,Vec F,void *ctx)
+",FormFunctionA,__Z13FormFunctionAiiiPv,,428,16,13,4,1,4,4,34,48.0,4,1,5,43,1,44,4,1,102.16483617504393,4.584962500721156,0.10420369319820809,9.596588847363389,0.10420369319820809,1.0,980.4339274301343,10
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex34.c,MatMult_A,"PetscErrorCode MatMult_A(Mat A,Vec x,Vec y)
+",MatMult_A,__Z9MatMult_Aiii,,468,16,2,3,5,1,1,5,12.5,4,1,5,43,1,44,4,1,102.16483617504393,4.584962500721156,0.10420369319820809,9.596588847363389,0.10420369319820809,1.0,980.4339274301343,3
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex34.c,FormJacobianB,"PetscErrorCode FormJacobianB(SNES snes,Vec X,Mat A,Mat B,void *ctx)
+",FormJacobianB,__Z13FormJacobianBiiiiPv,,369,16,5,5,4,1,0,14,22.0,4,1,5,43,1,44,4,1,102.16483617504393,4.584962500721156,0.10420369319820809,9.596588847363389,0.10420369319820809,1.0,980.4339274301343,6
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex34.c,FormFunctionB,"PetscErrorCode FormFunctionB(SNES snes,Vec X,Vec F,void *ctx)
+",FormFunctionB,__Z13FormFunctionBiiiPv,,479,16,11,4,2,2,4,24,37.5,4,1,5,43,1,44,4,1,102.16483617504393,4.584962500721156,0.10420369319820809,9.596588847363389,0.10420369319820809,1.0,980.4339274301343,9
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex34.c,MatMult_B,"PetscErrorCode MatMult_B(Mat B,Vec x,Vec y)
+",MatMult_B,__Z9MatMult_Biii,,509,16,0,3,3,1,1,5,8.5,4,1,5,43,1,44,4,1,102.16483617504393,4.584962500721156,0.10420369319820809,9.596588847363389,0.10420369319820809,1.0,980.4339274301343,3
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex34.c,FormFunctionAB,"PetscErrorCode FormFunctionAB(SNES snes,Vec x,Vec Ax,Vec Bx,void *ctx)
+",FormFunctionAB,__Z14FormFunctionABiiiiPv,,386,16,1,5,2,1,1,5,12.0,4,1,5,43,1,44,4,1,102.16483617504393,4.584962500721156,0.10420369319820809,9.596588847363389,0.10420369319820809,1.0,980.4339274301343,2
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex34.c,BoundaryGlobalIndex,"PetscErrorCode BoundaryGlobalIndex(DM dm,const char labelname[],IS *bdis)
+",BoundaryGlobalIndex,__Z19BoundaryGlobalIndexiPKcPi,,294,16,12,3,9,6,1,26,49.5,4,1,5,43,1,44,4,1,102.16483617504393,4.584962500721156,0.10420369319820809,9.596588847363389,0.10420369319820809,1.0,980.4339274301343,7
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex34.c,main,"int main(int argc,char **argv)
+",main,_main,,46,5,35,2,2,13,0,161,122.0,4,1,5,43,1,44,4,1,102.16483617504393,4.584962500721156,0.10420369319820809,9.596588847363389,0.10420369319820809,1.0,980.4339274301343,20
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex34.c,f0_u,"static void f0_u(PetscInt dim, PetscInt Nf, PetscInt NfAux,
+",f0_u,__ZL4f0_uiiiPKiS0_S0_S0_S0_S0_S0_S0_S0_S0_iS0_iS0_Pi,,211,13,1,4,29,1,1,1,10.5,4,1,5,43,1,44,4,1,102.16483617504393,4.584962500721156,0.10420369319820809,9.596588847363389,0.10420369319820809,1.0,980.4339274301343,1
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex34.c,f1_u,"static void f1_u(PetscInt dim, PetscInt Nf, PetscInt NfAux,
+",f1_u,__ZL4f1_uiiiPKiS0_S0_S0_S0_S0_S0_S0_S0_S0_iS0_iS0_Pi,,222,13,2,4,3,3,1,1,19.0,4,1,5,43,1,44,4,1,102.16483617504393,4.584962500721156,0.10420369319820809,9.596588847363389,0.10420369319820809,1.0,980.4339274301343,2
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex34.c,g0_uu,"static void g0_uu(PetscInt dim, PetscInt Nf, PetscInt NfAux,
+",g0_uu,__ZL5g0_uuiiiPKiS0_S0_S0_S0_S0_S0_S0_S0_S0_iiS0_iS0_Pi,,237,13,0,4,3,1,1,1,8.0,4,1,5,43,1,44,4,1,102.16483617504393,4.584962500721156,0.10420369319820809,9.596588847363389,0.10420369319820809,1.0,980.4339274301343,0
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex34.c,g3_uu,"static void g3_uu(PetscInt dim, PetscInt Nf, PetscInt NfAux,
+",g3_uu,__ZL5g3_uuiiiPKiS0_S0_S0_S0_S0_S0_S0_S0_S0_iiS0_iS0_Pi,,246,13,1,4,2,2,1,0,13.5,4,1,5,43,1,44,4,1,102.16483617504393,4.584962500721156,0.10420369319820809,9.596588847363389,0.10420369319820809,1.0,980.4339274301343,1
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex34.c,FormJacobian,"static PetscErrorCode FormJacobian(SNES snes,Vec X,Mat A,Mat B,void *ctx)
+",FormJacobian,__ZL12FormJacobianiiiiPv,,329,23,3,5,1,2,2,19,20.0,4,1,5,43,1,44,4,1,102.16483617504393,4.584962500721156,0.10420369319820809,9.596588847363389,0.10420369319820809,1.0,980.4339274301343,4
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex34.c,FormFunction,"static PetscErrorCode FormFunction(SNES snes,Vec X,Vec F,void *ctx)
+",FormFunction,__ZL12FormFunctioniiiPv,,403,23,4,4,2,1,2,27,18.0,4,1,5,43,1,44,4,1,102.16483617504393,4.584962500721156,0.10420369319820809,9.596588847363389,0.10420369319820809,1.0,980.4339274301343,4
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex3.c,MatMult_Laplacian2D,"PetscErrorCode MatMult_Laplacian2D(Mat A,Vec x,Vec y)
+",MatMult_Laplacian2D,__Z19MatMult_Laplacian2Diii,,141,16,32,3,0,5,2,16,87.5,7,5,12,34,5,39,7,5,139.8135375281251,9.807354922057604,0.251470639027118,3.9766073839425933,0.251470639027118,1.0,555.9835457094771,9
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex3.c,MatGetDiagonal_Laplacian2D,"PetscErrorCode MatGetDiagonal_Laplacian2D(Mat A,Vec diag)
+",MatGetDiagonal_Laplacian2D,__Z26MatGetDiagonal_Laplacian2Dii,,173,16,0,2,11,1,1,3,7.0,7,5,12,34,5,39,7,5,139.8135375281251,9.807354922057604,0.251470639027118,3.9766073839425933,0.251470639027118,1.0,555.9835457094771,2
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex3.c,main,"int main(int argc,char **argv)
+",main,_main,,24,5,9,2,10,5,0,55,39.5,7,5,12,34,5,39,7,5,139.8135375281251,9.807354922057604,0.251470639027118,3.9766073839425933,0.251470639027118,1.0,555.9835457094771,7
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex3.c,tv,"static void tv(int nx,const PetscScalar *x,PetscScalar *y)
+",tv,__ZL2tviPKiPi,,110,13,4,3,16,2,3,0,19.0,7,5,12,34,5,39,7,5,139.8135375281251,9.807354922057604,0.251470639027118,3.9766073839425933,0.251470639027118,1.0,555.9835457094771,2
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex44.c,main,"int main(int argc,char **argv)
+",main,_main,,20,5,0,2,39,15,0,94,52.5,11,21,32,225,21,246,11,21,1230.0,27.523561956057012,0.1118843981953537,8.937796655562005,0.1118843981953537,1.0,10993.489886341267,9
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex25.c,main,"int main(int argc,char **argv)
+",main,_main,,19,5,0,2,42,16,0,144,56.0,13,22,35,286,22,308,13,22,1579.8191692190496,28.584962500721154,0.09280831980753622,10.774896066147704,0.09280831980753622,1.0,17022.387351643072,10
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex9.c,MatMult_Brussel,"PetscErrorCode MatMult_Brussel(Mat A,Vec x,Vec y)
+",MatMult_Brussel,__Z15MatMult_Brusseliii,,194,16,5,3,5,1,1,47,20.0,11,65,76,268,65,333,11,65,2080.559861976714,73.06608919045777,0.21941768525662994,4.557517771780358,0.21941768525662997,1.0,9482.188546211763,6
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex9.c,MatMultTranspose_Brussel,"PetscErrorCode MatMultTranspose_Brussel(Mat A,Vec x,Vec y)
+",MatMultTranspose_Brussel,__Z24MatMultTranspose_Brusseliii,,231,16,5,3,2,1,1,47,20.0,11,65,76,268,65,333,11,65,2080.559861976714,73.06608919045777,0.21941768525662994,4.557517771780358,0.21941768525662997,1.0,9482.188546211763,6
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex9.c,MatGetDiagonal_Brussel,"PetscErrorCode MatGetDiagonal_Brussel(Mat A,Vec diag)
+",MatGetDiagonal_Brussel,__Z22MatGetDiagonal_Brusselii,,268,16,0,2,6,1,1,23,9.5,11,65,76,268,65,333,11,65,2080.559861976714,73.06608919045777,0.21941768525662994,4.557517771780358,0.21941768525662997,1.0,9482.188546211763,7
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex9.c,main,"int main(int argc,char **argv)
+",main,_main,,49,5,20,2,38,7,0,109,68.5,11,65,76,268,65,333,11,65,2080.559861976714,73.06608919045777,0.21941768525662994,4.557517771780358,0.21941768525662997,1.0,9482.188546211763,9
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex7.c,main,"int main(int argc,char **argv)
+",main,_main,,22,5,0,2,46,23,0,145,78.0,11,24,35,290,24,314,11,24,1610.5948673207195,30.70043971814109,0.09777210101318819,10.227866534903582,0.09777210101318819,1.0,16472.94934475706,12
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex31.c,dq2ri,"PetscErrorCode dq2ri(PetscScalar Fd,PetscScalar Fq,PetscScalar delta,PetscScalar *Fr,PetscScalar *Fi)
+",dq2ri,__Z5dq2riiiiPiS_,,138,16,0,5,123,1,0,5,9.5,13,92,105,366,92,458,13,92,3075.124447091084,100.55458885167764,0.21955150404296428,4.554739920179772,0.21955150404296428,1.0,14006.392078686511,1
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex31.c,ri2dq,"PetscErrorCode ri2dq(PetscScalar Fr,PetscScalar Fi,PetscScalar delta,PetscScalar *Fd,PetscScalar *Fq)
+",ri2dq,__Z5ri2dqiiiPiS_,,147,16,0,5,1,1,1,5,9.5,13,92,105,366,92,458,13,92,3075.124447091084,100.55458885167764,0.21955150404296428,4.554739920179772,0.21955150404296428,1.0,14006.392078686511,1
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex31.c,SetInitialGuess,"PetscErrorCode SetInitialGuess(Vec X,Userctx *user)
+",SetInitialGuess,__Z15SetInitialGuessiP3$_0,,155,16,25,2,29,2,1,28,64.0,13,92,105,366,92,458,13,92,3075.124447091084,100.55458885167764,0.21955150404296428,4.554739920179772,0.21955150404296428,1.0,14006.392078686511,10
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex31.c,PreallocateJacobian,"PetscErrorCode PreallocateJacobian(Mat J,Userctx *user)
+",PreallocateJacobian,__Z19PreallocateJacobianiP3$_0,,240,16,6,2,36,4,1,11,29.5,13,92,105,366,92,458,13,92,3075.124447091084,100.55458885167764,0.21955150404296428,4.554739920179772,0.21955150404296428,1.0,14006.392078686511,5
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex31.c,ResidualJacobian,"PetscErrorCode ResidualJacobian(Vec X,Mat J,void *ctx)
+",ResidualJacobian,__Z16ResidualJacobianiiPv,,289,16,61,3,68,8,1,99,163.5,13,92,105,366,92,458,13,92,3075.124447091084,100.55458885167764,0.21955150404296428,4.554739920179772,0.21955150404296428,1.0,14006.392078686511,27
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex31.c,main,"int main(int argc,char **argv)
+",main,_main,,519,5,0,2,249,13,0,155,48.5,13,92,105,366,92,458,13,92,3075.124447091084,100.55458885167764,0.21955150404296428,4.554739920179772,0.21955150404296428,1.0,14006.392078686511,13
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex10.c,STCreate_User,"PetscErrorCode STCreate_User(SampleShellST **shell)
+",STCreate_User,__Z13STCreate_UserPP3$_0,,165,16,4,1,6,1,1,7,15.0,9,45,54,139,45,184,9,45,1058.8993003980781,52.554588851677636,0.285622765498248,3.5011214818803857,0.285622765498248,1.0,3707.335087771823,4
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex10.c,STSetUp_User,"PetscErrorCode STSetUp_User(SampleShellST *shell,ST st)
+",STSetUp_User,__Z12STSetUp_UserP3$_0i,,195,16,2,2,2,1,1,7,11.5,9,45,54,139,45,184,9,45,1058.8993003980781,52.554588851677636,0.285622765498248,3.5011214818803857,0.285622765498248,1.0,3707.335087771823,3
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex10.c,STApply_User,"PetscErrorCode STApply_User(ST st,Vec x,Vec y)
+",STApply_User,__Z12STApply_Useriii,,223,16,2,3,1,1,1,5,12.5,9,45,54,139,45,184,9,45,1058.8993003980781,52.554588851677636,0.285622765498248,3.5011214818803857,0.285622765498248,1.0,3707.335087771823,3
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex10.c,STApplyTranspose_User,"PetscErrorCode STApplyTranspose_User(ST st,Vec x,Vec y)
+",STApplyTranspose_User,__Z21STApplyTranspose_Useriii,,245,16,2,3,1,1,1,5,12.5,9,45,54,139,45,184,9,45,1058.8993003980781,52.554588851677636,0.285622765498248,3.5011214818803857,0.285622765498248,1.0,3707.335087771823,3
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex10.c,STBackTransform_User,"PetscErrorCode STBackTransform_User(ST st,PetscInt n,PetscScalar *eigr,PetscScalar *eigi)
+",STBackTransform_User,__Z20STBackTransform_UseriiPiS_,,273,16,1,4,3,2,1,1,14.0,9,45,54,139,45,184,9,45,1058.8993003980781,52.554588851677636,0.285622765498248,3.5011214818803857,0.285622765498248,1.0,3707.335087771823,2
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex10.c,STDestroy_User,"PetscErrorCode STDestroy_User(SampleShellST *shell)
+",STDestroy_User,__Z14STDestroy_UserP3$_0,,291,16,0,1,1,1,1,5,6.0,9,45,54,139,45,184,9,45,1058.8993003980781,52.554588851677636,0.285622765498248,3.5011214818803857,0.285622765498248,1.0,3707.335087771823,2
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex10.c,main,"int main (int argc,char **argv)
+",main,_main,,32,5,13,2,16,9,0,85,60.0,9,45,54,139,45,184,9,45,1058.8993003980781,52.554588851677636,0.285622765498248,3.5011214818803857,0.285622765498248,1.0,3707.335087771823,8
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex35.c,STCreate_Fold,"PetscErrorCode STCreate_Fold(Mat A,PetscScalar target,FoldShellST **fold)
+",STCreate_Fold,__Z13STCreate_FoldiiPP3$_0,,147,16,4,3,5,1,1,7,17.0,11,47,58,187,47,234,11,47,1370.7675528598518,54.61470984411521,0.23339619591502228,4.284559977850248,0.2333961959150223,1.0,5873.135795919045,4
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex35.c,STApply_Fold,"PetscErrorCode STApply_Fold(ST st,Vec x,Vec y)
+",STApply_Fold,__Z12STApply_Foldiii,,172,16,3,3,1,1,1,11,15.0,11,47,58,187,47,234,11,47,1370.7675528598518,54.61470984411521,0.23339619591502228,4.284559977850248,0.2333961959150223,1.0,5873.135795919045,4
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex35.c,STDestroy_Fold,"PetscErrorCode STDestroy_Fold(FoldShellST *fold)
+",STDestroy_Fold,__Z14STDestroy_FoldP3$_0,,194,16,0,1,1,1,1,7,6.0,11,47,58,187,47,234,11,47,1370.7675528598518,54.61470984411521,0.23339619591502228,4.284559977850248,0.2333961959150223,1.0,5873.135795919045,2
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex35.c,main,"int main (int argc,char **argv)
+",main,_main,,31,5,19,2,23,12,0,90,81.5,11,47,58,187,47,234,11,47,1370.7675528598518,54.61470984411521,0.23339619591502228,4.284559977850248,0.2333961959150223,1.0,5873.135795919045,9
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex47.c,MatMult_Sinvert0,"PetscErrorCode MatMult_Sinvert0(Mat S,Vec x,Vec y)
+",MatMult_Sinvert0,__Z16MatMult_Sinvert0iii,,33,16,2,3,5,1,1,7,12.5,12,60,72,257,60,317,12,60,1955.866225457213,67.95419631038688,0.21436654987503748,4.664906911003319,0.21436654987503748,1.0,9123.933872133328,3
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex47.c,main,"int main(int argc,char **argv)
+",main,_main,,45,5,0,2,20,12,0,118,43.5,12,60,72,257,60,317,12,60,1955.866225457213,67.95419631038688,0.21436654987503748,4.664906911003319,0.21436654987503748,1.0,9123.933872133328,9
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex4.c,main,"int main(int argc,char **argv)
+",main,_main,,18,5,0,2,16,7,0,61,28.5,6,12,18,103,12,115,6,12,479.5413751658659,17.807354922057606,0.15484656453963136,6.458005723104438,0.15484656453963136,1.0,3096.880945286534,9
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex43.c,main,"int main(int argc,char **argv)
+",main,_main,,21,5,0,2,34,11,0,110,40.5,11,18,29,213,18,231,11,18,1122.193609874469,24.32192809488736,0.1052897320124994,9.497602291183396,0.10528973201249939,1.0,10658.148600295122,9
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex36.c,STApply_Exp,"PetscErrorCode STApply_Exp(ST st,Vec x,Vec y)
+",STApply_Exp,__Z11STApply_Expiii,,224,16,0,3,1,1,1,5,8.5,11,58,69,253,58,311,11,58,1899.7511060580107,65.90689059560852,0.2119192623653007,4.718778221661734,0.2119192623653007,1.0,8964.504145844332,3
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex36.c,STBackTransform_Exp,"PetscErrorCode STBackTransform_Exp(ST st,PetscInt n,PetscScalar *eigr,PetscScalar *eigi)
+",STBackTransform_Exp,__Z19STBackTransform_ExpiiPiS_,,182,16,0,4,9,7,1,12,26.0,11,58,69,253,58,311,11,58,1899.7511060580107,65.90689059560852,0.2119192623653007,4.718778221661734,0.2119192623653007,1.0,8964.504145844332,0
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex36.c,main,"int main(int argc,char **argv)
+",main,_main,,43,5,22,2,37,15,0,113,97.0,11,58,69,253,58,311,11,58,1899.7511060580107,65.90689059560852,0.2119192623653007,4.718778221661734,0.2119192623653007,1.0,8964.504145844332,10
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex19.c,GetExactEigenvalues,"PetscErrorCode GetExactEigenvalues(PetscInt M,PetscInt N,PetscInt P,PetscInt nconv,PetscReal *exact)
+",GetExactEigenvalues,__Z19GetExactEigenvaluesiiiiPi,,19,16,13,5,18,5,1,12,49.0,11,97,108,243,97,340,11,97,2296.661750735579,105.6293566200796,0.3106745782943518,3.2188021481839426,0.3106745782943518,1.0,7392.499776919576,4
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex19.c,FillMatrix,"PetscErrorCode FillMatrix(DM da,Mat A)
+",FillMatrix,__Z10FillMatrixii,,48,16,17,2,38,10,1,11,69.5,11,97,108,243,97,340,11,97,2296.661750735579,105.6293566200796,0.3106745782943518,3.2188021481839426,0.3106745782943518,1.0,7392.499776919576,5
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex19.c,main,"int main(int argc,char **argv)
+",main,_main,,81,5,0,2,9,14,0,109,51.0,11,97,108,243,97,340,11,97,2296.661750735579,105.6293566200796,0.3106745782943518,3.2188021481839426,0.3106745782943518,1.0,7392.499776919576,12
+/Users/shussain/code-analysis/dynamic/Projects/slepc-Firedrake_20210413.0/src/eps/tutorials/ex13.c,main,"int main(int argc,char **argv)
+",main,_main,,22,5,0,2,30,11,0,84,39.0,12,12,24,185,12,197,12,12,903.2376126420678,17.807354922057606,0.09039266457897262,11.062844586535428,0.09039266457897262,1.0,9992.377333372484,6
